@@ -35,8 +35,8 @@
   "devDependencies": {
     "@types/classnames": "^2.2.0",
     "surplus-loader": "^0.5.0",
-    "ts-loader": "^2.1.0",
+    "ts-loader": "^9.4.2",
     "typescript": "2.6.2",
-    "webpack": "^2.6.1"
+    "webpack": "^5.75.0"
   }
 }
